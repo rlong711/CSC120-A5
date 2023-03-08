@@ -32,30 +32,30 @@ Part 1 pt: The `Car` class has a `printManifest()` method that prints a nicely-f
 
 Part 1 pt: The `Passenger` class uses appropriate methods from the `Car` class to implement its `boardCar(...)` and `getOffCar(...)` methods
 
-_____ 1 pt: The `Train` class has all expected attributes / relationships with the other classes
+Part 1 pt: The `Train` class has all expected attributes / relationships with the other classes
 
-_____ 1 pt: The `Train` class has all expected methods, making use of methods from other classes as appropriate
+Part 1 pt: The `Train` class has all expected methods, making use of methods from other classes as appropriate
 
 
 
 ## General Items:
 
-_____ 4 pts: Programs compile without errors or warnings
+Part 4 pts: Programs compile without errors or warnings
 
-_____ 2 pts: Executes fully & consistently without crashing (exception/freeze)
+Yes 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
 _____ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
-      _____ Classes & class members all have Javadoc header comments
+      Yes Classes & class members all have Javadoc header comments
 
-      _____ Clear and consistent indentation of bracketed sections
+      Yes Clear and consistent indentation of bracketed sections
 
-      _____ Adheres to Java conventions on naming & capitalization
+      Yes Adheres to Java conventions on naming & capitalization
 
-      _____ Methods & variables all have clear and accurate names
+      Yes Methods & variables all have clear and accurate names
 
-      _____ Methods avoid confusing side effects
+      Yes Methods avoid confusing side effects
 
-_____ 1 pt: All required files included with submission (including completed `rubric.md` file)
+Yes 1 pt: All required files included with submission (including completed `rubric.md` file)
 
-_____ 1 pt: `reflection.md` contains your reflection on the assignment
+Yes 1 pt: `reflection.md` contains your reflection on the assignment
