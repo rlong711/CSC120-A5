@@ -2,3 +2,7 @@ Use this file to record your reflection on this assignment.
 
 - What are your initial impressions of how `Association` affects your programming?
 - What worked, what didn't, what advice would you give someone taking this course in the future?
+
+My initial thoughts were that Association makes programming more difficult. In some senses I still feel that way. It is difficult for me to remember what kind of associations and how that is all supposed to work in practice. I do think that more practice will help me solidify that understanding. I also see the value in getting the idea of Association down pat. Having the code borken up into different classes makes the project feel more manageable and makes it easier to read and comprehend. For me, association made me hav a lot more naming and syntax errors then usual. I think this is because I don't fully understand the ins and outs of each data type, and what can be manipulated/accessed. 
+
+Looking at sample code from classwork, slides, and past assignments really helped me. It gave me something to refer to. I would reccomend future students to save all of their coding work because you never know when a method/block of code will be a good resource. Trying to do too much of this project at once definetly does not work for me. I am one of those people who likes to get an assignment done in one sitting, so breaking it up into parts is something I struggle with. I definelty reccommend breaking it up. 
